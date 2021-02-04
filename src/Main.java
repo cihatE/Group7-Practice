@@ -4,6 +4,7 @@ public class Main {
 	// write your code here
         System.out.println("This is group repository");
         //baky was here
+        System.out.println("Hello guys");
 
     }
 }
