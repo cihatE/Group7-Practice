@@ -6,6 +6,7 @@ public class Main {
         //baky was here
         System.out.println("Hello guys");
         System.out.println("I am noat able to add new package");
+        System.out.println("Added new file");
 
     }
 }
